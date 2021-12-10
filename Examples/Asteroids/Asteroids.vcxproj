@@ -72,28 +72,28 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
     <LibraryPath>$(SolutionDir)dependencies\lib;$(SolutionDir)bin\$(Configuration)\$(Platform);$(LibraryPath)</LibraryPath>
-    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(SolutionDir)dependencies\include\glm\;$(IncludePath)</IncludePath>
     <OutDir>$(SolutionDir)bin\$(Configuration)\$(Platform)</OutDir>
     <IntDir>$(SolutionDir)int\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
     <LibraryPath>$(SolutionDir)dependencies\lib;$(SolutionDir)bin\$(Configuration)\$(Platform);$(LibraryPath)</LibraryPath>
-    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(SolutionDir)dependencies\include\glm\;$(IncludePath)</IncludePath>
     <OutDir>$(SolutionDir)bin\$(Configuration)\$(Platform)</OutDir>
     <IntDir>$(SolutionDir)int\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <LibraryPath>$(SolutionDir)dependencies\lib;$(SolutionDir)bin\$(Configuration)\$(Platform);$(LibraryPath)</LibraryPath>
-    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(SolutionDir)dependencies\include\glm\;$(IncludePath)</IncludePath>
     <OutDir>$(SolutionDir)bin\$(Configuration)\$(Platform)</OutDir>
     <IntDir>$(SolutionDir)int\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
     <LibraryPath>$(SolutionDir)dependencies\lib;$(SolutionDir)bin\$(Configuration)\$(Platform);$(LibraryPath)</LibraryPath>
-    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)dependencies\include;$(SolutionDir)Quarantine2D\include;$(SolutionDir)dependencies\include\glm\;$(IncludePath)</IncludePath>
     <OutDir>$(SolutionDir)bin\$(Configuration)\$(Platform)</OutDir>
     <IntDir>$(SolutionDir)int\</IntDir>
   </PropertyGroup>
