@@ -1,0 +1,18 @@
+#pragma once
+
+#include <Game.h>
+#include <Text.h>
+
+class TitleScreen : public q2d::IGameState
+{
+public:
+	void init() override;
+	void update(float dt) override;
+	void draw() override;
+
+	q2d::Text playButton;
+	q2d::Text quitButton;
+
+private:
+	q2d::Font font;
+};
