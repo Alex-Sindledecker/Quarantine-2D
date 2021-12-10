@@ -1,5 +1,3 @@
 dependencies/**/* linguist-vendored
 dependencies/include/glad/glad.h linguist-vendored
-Quarantine2D/include/tools/glad.c linguist-vendored
-Quarantine2D/include/tools/stb_image.cpp linguist-vendored
-Quarantine2D/include/tools/stb_image.h linguist-vendored
+Quarantine2D/include/tools/* linguist-vendored
