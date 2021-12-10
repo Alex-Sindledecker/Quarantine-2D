@@ -4,9 +4,11 @@ A simple, light weight, 2D game development API/Engine developed during the init
 ## Installation
 ### Windows
 
-<ins>In the console</ins>
+<ins>Open command prompt and use the cd command to navigate to the directory you want to download the project and then use this command</ins>
 
 `git clone --recursive https://github.com/Alex-Sindledecker/Quarantine2D-Game-Engine/`
+
+It will download the project and all of its dependencies (glm).
 
 ### Linux/Mac
 This project was not designed with cross platform in mind.
