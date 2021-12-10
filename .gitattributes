@@ -1,7 +1,7 @@
-dependencies/include/** linguist-vendored
-dependencies/include/GLFW/** linguist-vendored
-dependencies/include/freetype/** linguist-vendored
-dependencies/include/freetype/config/** linguist-vendored
-dependencies/include/freetype/internal/** linguist-vendored
-dependencies/include/freetype/internal/services/** linguist-vendored
-dependencies/include/KHR/** linguist-vendored
+dependencies/include/* linguist-vendored=true
+dependencies/include/GLFW/* linguist-vendored=true
+dependencies/include/freetype/* linguist-vendored=true
+dependencies/include/freetype/config/* linguist-vendored=true
+dependencies/include/freetype/internal/* linguist-vendored=true
+dependencies/include/freetype/internal/services/* linguist-vendored=true
+dependencies/include/KHR/* linguist-vendored=true
