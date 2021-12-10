@@ -1,0 +1,3 @@
+[submodule "dependencies/include/glm"]
+	path = dependencies/include/glm
+	url = https://github.com/g-truc/glm
