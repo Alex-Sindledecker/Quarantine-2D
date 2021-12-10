@@ -10,5 +10,7 @@ A simple, light weight, 2D game development API/Engine developed during the init
 
 It will download the project and all of its dependencies (glm).
 
+Open the project in visual studio and set the project nameed "Asteroids" to be used as the startup project. Otherwise you will not be able to run it because the project "Quarantine2D" is compiled into a dll.
+
 ### Linux/Mac
 This project was not designed with cross platform in mind.
