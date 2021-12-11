@@ -14,3 +14,11 @@ Open the project in visual studio and set the project nameed "Asteroids" to be u
 
 ### Linux/Mac
 This project was not designed with cross platform in mind.
+
+## Screenshots
+### Asteroids example
+![Title screen](/img/title.PNG)
+![Gameplay](/img/explosion.png)
+
+## Documentation
+There is not currently any documentation.
